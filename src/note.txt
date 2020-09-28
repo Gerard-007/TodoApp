@@ -1,0 +1,8 @@
+2 REACT Fundamentals are:
+- STATE: Gets cleared after refreshed
+- PROPS
+
+REACT runs dynamic javascript with JSX.
+JSX = JavaScript + HTML Hybrid
+
+event.preventDefault(); //This will stop the page-refresh
